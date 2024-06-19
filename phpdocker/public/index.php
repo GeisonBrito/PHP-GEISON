@@ -1,3 +1,18 @@
-<?php // require "array.php"?>
+<?php //require "array.php"?>
 <?php //require "conect_maysqli.php"?>
-<?php require "pdo.php"?>
+<?php //require "pdo.php"?>
+<?php //require "desafio1.php"?>
+<?php //require "desafio2.php"?>
+<?php //require "desafio3.php"?>
+<?php //require "desafio4.php"?>
+<?php //require "desafio5.php"?>
+<?php //require "desafio6.php"?>
+<?php //require "desafio7.php"?>
+<?php //require "desafio8.php"?>
+<?php //require "POO.php"?>
+<?php //require "POO1.php"?>
+<?php //require "POO2.php"?>
+<?php //require "chaveprivada.php"?>
+<?php //require "desafio9.php"?>
+<?php //require "desafio10.php"?>
+<?php require "desafio11.php"?>
